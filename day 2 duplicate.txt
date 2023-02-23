@@ -1,0 +1,3 @@
+mydate = ["mid", "mname", "mdesign", "mid", "msarley"]
+
+print(mydate)
