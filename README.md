@@ -1,4 +1,6 @@
-# Adhira
-i wll be confident on my self
-i wll not lose my strength
+if b=l
+print ("it is true")
+ else("not true")
+ I f b=l then it is true 
+ if not it is not true
 
